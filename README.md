@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Stats](https://github-readme-stats.vercel.app/api?username=shubham201&show_icons=true&count_private=true&theme=dark)
+
+- 🔭 I’m currently working on [loopback-next](https://github.com/loopbackio/loopback-next)
+- 🌱 I’m currently learning Vue.js and Next.js
+
 <!--
 **shubham201/shubham201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
