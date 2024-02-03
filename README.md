@@ -5,6 +5,10 @@
 - 🔭 I’m currently working on [loopback-next](https://github.com/loopbackio/loopback-next)
 - 🌱 I’m currently learning Vue.js and Next.js
 
+### Leetcode Progress:
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=shubham201&theme=nord)
+
 <!--
 **shubham201/shubham201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
